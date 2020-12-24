@@ -1,0 +1,297 @@
+2020-12-22 02:36:12,589 INFO c.s.AppStart [http-nio-3447-exec-1] inside : test
+2020-12-22 02:39:54,812 INFO c.s.AppStart [http-nio-3447-exec-6] inside : receiveRequest null id : 0
+2020-12-22 02:51:27,814 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 02:51:35,316 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4277 (/home/pi/Desktop/jar/ScreenShareApp_v4.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 02:51:35,354 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 02:51:35,361 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 02:51:49,094 INFO c.s.AppStart [main] Started AppStart in 18.562 seconds (JVM running for 29.845)
+2020-12-22 02:54:21,731 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 02:54:28,256 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4321 (/home/pi/Desktop/jar/ScreenShareApp_v4.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 02:54:28,282 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 02:54:28,287 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 02:54:40,678 INFO c.s.AppStart [main] Started AppStart in 17.145 seconds (JVM running for 29.749)
+2020-12-22 02:54:44,368 ERROR o.o.s.o.OsProcess [Forwarding newSession on session null to remote] org.apache.commons.exec.ExecuteException: Process exited with an error: 2 (Exit value: 2)
+2020-12-22 03:31:19,622 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 03:31:27,597 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4548 (/home/pi/Desktop/jar/ScreenShareApp_v5.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 03:31:27,634 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 03:31:27,640 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 03:31:40,878 INFO c.s.AppStart [main] Started AppStart in 18.693 seconds (JVM running for 30.516)
+2020-12-22 03:31:42,732 ERROR o.o.s.o.OsProcess [Forwarding newSession on session null to remote] org.apache.commons.exec.ExecuteException: Process exited with an error: 2 (Exit value: 2)
+2020-12-22 03:40:49,536 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 03:40:57,832 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4608 (/home/pi/Desktop/jar/ScreenShareApp_v5.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 03:40:57,866 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 03:40:57,872 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 03:41:13,227 ERROR o.o.s.o.OsProcess [Forwarding newSession on session null to remote] org.apache.commons.exec.ExecuteException: Process exited with an error: 2 (Exit value: 2)
+2020-12-22 03:41:14,391 INFO c.s.AppStart [main] Started AppStart in 22.072 seconds (JVM running for 34.634)
+2020-12-22 04:16:03,544 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 04:16:11,443 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4932 (/home/pi/Desktop/jar/ScreenShareApp_v6.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 04:16:11,476 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 04:16:11,482 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 04:16:23,435 INFO c.s.AppStart [main] Started AppStart in 17.156 seconds (JVM running for 30.581)
+2020-12-22 04:20:11,894 INFO c.s.AppStart [http-nio-3447-exec-1] inside : receiveRequest null id : 0
+2020-12-22 04:20:11,895 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 04:21:09,450 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 04:21:17,841 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 4977 (/home/pi/Desktop/jar/ScreenShareApp_v6.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 04:21:17,864 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 04:21:17,869 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 04:21:33,656 INFO c.s.AppStart [main] Started AppStart in 21.539 seconds (JVM running for 32.466)
+2020-12-22 04:30:17,670 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 04:30:27,909 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 5141 (/home/pi/Desktop/jar/ScreenShareApp_v7.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 04:30:27,958 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 04:30:27,965 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 04:30:48,208 INFO c.s.AppStart [main] Started AppStart in 27.745 seconds (JVM running for 38.81)
+2020-12-22 04:35:49,330 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 04:36:00,326 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 5328 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 04:36:00,351 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 04:36:00,358 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 04:36:17,362 INFO c.s.AppStart [main] Started AppStart in 25.328 seconds (JVM running for 36.365)
+2020-12-22 04:40:45,873 INFO c.s.AppStart [http-nio-3447-exec-1] inside : receiveRequest null id : 0
+2020-12-22 04:40:45,877 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 04:40:45,879 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 04:40:45,880 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 04:42:22,841 INFO c.s.AppStart [http-nio-3447-exec-5] inside : receiveRequest null id : 0
+2020-12-22 04:42:22,842 INFO c.s.AppStart [http-nio-3447-exec-5] URL : https://player.screen.cloud/browser/index.html
+2020-12-22 04:42:22,842 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 04:42:22,843 INFO c.s.AppStart [Thread-1] URL  : https://player.screen.cloud/browser/index.html
+2020-12-22 04:59:23,189 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 04:59:30,859 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 5834 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 04:59:30,881 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 04:59:30,891 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:00:16,354 INFO c.s.AppStart [main] Started AppStart in 51.36 seconds (JVM running for 63.336)
+2020-12-22 05:02:39,464 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:02:46,935 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 6181 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:02:46,979 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:02:47,008 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:03:05,046 INFO c.s.AppStart [main] Started AppStart in 23.633 seconds (JVM running for 35.68)
+2020-12-22 05:04:09,754 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:04:17,059 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 6447 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:04:17,085 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:04:17,089 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:04:42,027 INFO c.s.AppStart [main] Started AppStart in 30.465 seconds (JVM running for 42.357)
+2020-12-22 05:05:07,221 INFO c.s.AppStart [http-nio-3447-exec-1] inside : receiveRequest null id : 0
+2020-12-22 05:05:07,223 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 05:05:07,225 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 05:05:07,226 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 05:05:27,845 INFO c.s.AppStart [http-nio-3447-exec-3] inside : receiveRequest null id : 0
+2020-12-22 05:05:27,846 INFO c.s.AppStart [http-nio-3447-exec-3] URL : https://player.screen.cloud/browser/index.html
+2020-12-22 05:05:27,847 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 05:05:27,849 INFO c.s.AppStart [Thread-1] URL  : https://player.screen.cloud/browser/index.html
+2020-12-22 05:06:53,398 INFO c.s.AppStart [http-nio-3447-exec-5] inside : receiveRequest null id : 0
+2020-12-22 05:06:53,401 INFO c.s.AppStart [http-nio-3447-exec-5] URL : https://www.google.com
+2020-12-22 05:06:53,402 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 05:06:53,403 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 05:08:48,987 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:08:59,838 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 6923 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:08:59,908 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:08:59,939 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:28:16,214 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:28:27,633 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 928 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:28:27,666 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:28:27,672 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:29:46,891 INFO c.s.AppStart [main] Started AppStart in 87.788 seconds (JVM running for 108.728)
+2020-12-22 05:29:49,567 INFO c.s.AppStart [http-nio-3447-exec-1] inside : receiveRequest null id : 0
+2020-12-22 05:29:49,571 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 05:29:49,574 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 05:29:49,576 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 05:38:26,996 INFO c.s.AppStart [http-nio-3447-exec-3] inside : receiveRequest null id : 0
+2020-12-22 05:38:29,696 INFO c.s.AppStart [http-nio-3447-exec-3] URL : https://www.google.com
+2020-12-22 05:38:29,698 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 05:38:29,699 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 05:47:46,378 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:47:53,487 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1324 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:47:53,507 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:47:53,513 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:48:08,963 INFO c.s.AppStart [main] Started AppStart in 19.979 seconds (JVM running for 34.147)
+2020-12-22 05:49:21,864 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:49:31,445 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1410 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 05:49:31,488 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:49:31,494 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:49:44,331 INFO c.s.AppStart [main] Started AppStart in 20.165 seconds (JVM running for 30.966)
+2020-12-22 05:51:42,895 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:51:49,364 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1699 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 05:51:49,412 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:51:49,418 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:52:03,980 INFO c.s.AppStart [main] Started AppStart in 19.576 seconds (JVM running for 29.52)
+2020-12-22 05:56:25,816 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:56:35,197 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1817 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 05:56:35,226 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:56:35,233 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:56:47,638 INFO c.s.AppStart [main] Started AppStart in 19.256 seconds (JVM running for 31.729)
+2020-12-22 05:57:24,708 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 05:57:34,449 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1922 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 05:57:34,483 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 05:57:34,489 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 05:57:49,186 INFO c.s.AppStart [main] Started AppStart in 21.973 seconds (JVM running for 36.785)
+2020-12-22 06:03:19,548 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 06:03:30,238 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1011 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 06:03:30,276 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 06:03:30,283 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 06:04:12,144 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 06:04:22,480 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1219 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 06:04:22,529 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 06:04:22,533 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 06:08:37,514 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 06:08:47,988 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1630 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 06:08:48,024 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 06:08:48,042 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 06:31:13,282 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 06:31:25,676 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1007 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 06:31:25,710 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 06:31:25,717 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 06:33:10,785 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 06:33:20,962 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1263 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by root in /home/pi/Desktop/control)
+2020-12-22 06:33:21,008 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 06:33:21,015 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 06:36:14,151 INFO c.s.AppStart [main] Started AppStart in 297.505 seconds (JVM running for 317.925)
+2020-12-22 06:36:20,352 INFO c.s.AppStart [main] Started AppStart in 186.644 seconds (JVM running for 202.75)
+2020-12-22 08:37:53,815 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 08:38:01,561 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1668 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by root in /home/pi/Desktop/control)
+2020-12-22 08:38:01,590 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 08:38:01,595 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 08:49:27,478 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 08:49:32,759 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1926 (/home/pi/Desktop/jar/ScreenShareApp_v9.jar started by root in /home/pi/Desktop/jar)
+2020-12-22 08:49:32,776 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 08:49:32,789 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 08:54:57,748 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 08:55:03,654 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1091 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 08:55:03,685 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 08:55:03,689 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 08:56:38,092 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 08:56:43,923 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1281 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 08:56:43,942 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 08:56:43,945 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:00:06,647 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:00:13,076 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1357 (/home/pi/Desktop/jar/ScreenShareApp_v6.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:00:13,096 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:00:13,101 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:00:45,437 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:00:51,443 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1431 (/home/pi/Desktop/jar/ScreenShareApp_v5.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:00:51,467 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:00:51,482 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:01:51,699 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:02:00,361 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1469 (/home/pi/Desktop/jar/ScreenShareApp_v4.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:02:00,383 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:02:00,387 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:02:41,449 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:02:49,617 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1578 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:02:49,643 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:02:49,649 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:06:07,499 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:06:13,430 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 2158 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:06:13,466 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:06:13,472 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:11:33,940 INFO c.s.AppStart [main] Started AppStart in 530.556 seconds (JVM running for 543.023)
+2020-12-22 09:13:49,230 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:13:55,082 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1078 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:13:55,105 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:13:55,121 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:17:11,302 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:17:19,577 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1073 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:17:19,625 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:17:19,679 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:19:00,286 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:19:11,908 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1317 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:19:11,933 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:19:11,938 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:58:10,355 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 09:58:17,936 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 958 (/home/pi/Desktop/jar/ScreenShareApp_v10.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 09:58:17,970 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 09:58:17,977 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 09:58:32,232 INFO c.s.AppStart [main] Started AppStart in 20.193 seconds (JVM running for 33.73)
+2020-12-22 10:00:18,806 INFO c.s.AppStart [http-nio-3447-exec-1] inside : receiveRequest null id : 0
+2020-12-22 10:00:18,808 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 10:01:15,485 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:01:21,206 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1064 (/home/pi/Desktop/jar/ScreenShareApp_v10.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 10:01:21,228 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:01:21,231 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:01:33,565 INFO c.s.AppStart [main] Started AppStart in 16.716 seconds (JVM running for 26.149)
+2020-12-22 10:02:34,914 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:02:40,768 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1146 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 10:02:40,788 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:02:40,792 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:02:53,415 INFO c.s.AppStart [main] Started AppStart in 16.991 seconds (JVM running for 26.808)
+2020-12-22 10:06:50,714 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:06:56,493 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1254 (/home/pi/Desktop/jar/ScreenShareApp_v8.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 10:06:56,522 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:06:56,526 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:07:08,931 INFO c.s.AppStart [main] Started AppStart in 16.761 seconds (JVM running for 26.311)
+2020-12-22 10:13:20,879 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:13:25,786 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1346 (/home/pi/Desktop/jar/ScreenShareApp_v12.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 10:13:25,804 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:13:25,808 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:13:41,018 INFO c.s.AppStart [main] Started AppStart in 18.902 seconds (JVM running for 27.547)
+2020-12-22 10:14:26,664 INFO c.s.AppStart [http-nio-3447-exec-1] URL : https://www.google.com
+2020-12-22 10:14:26,677 INFO c.s.AppStart [Thread-1] Consuming : id : 0
+2020-12-22 10:14:26,679 INFO c.s.AppStart [Thread-1] URL  : https://www.google.com
+2020-12-22 10:22:59,310 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:23:05,238 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1702 (/home/pi/Desktop/jar/ScreenShareApp-reverted.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 10:23:05,258 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:23:05,265 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:23:18,037 INFO c.s.AppStart [main] Started AppStart in 17.262 seconds (JVM running for 28.506)
+2020-12-22 10:23:37,188 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:23:43,017 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1788 (/home/pi/Desktop/jar/ScreenShareApp-reverted.jar started by root in /home/pi/Desktop/jar)
+2020-12-22 10:23:43,036 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:23:43,040 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:23:55,801 INFO c.s.AppStart [main] Started AppStart in 17.073 seconds (JVM running for 27.114)
+2020-12-22 10:30:27,876 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:30:33,828 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 2218 (/home/pi/Desktop/jar/ScreenShareApp-reverted.jar started by root in /home/pi/Desktop/jar)
+2020-12-22 10:30:33,847 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:30:33,852 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 10:30:46,950 INFO c.s.AppStart [main] Started AppStart in 17.546 seconds (JVM running for 30.134)
+2020-12-22 10:31:11,648 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 10:31:17,712 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 2345 (/home/pi/Desktop/jar/ScreenShareApp-reverted.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 10:31:17,734 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 10:31:17,738 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:03:42,231 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:03:48,802 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 971 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 11:03:48,825 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:03:48,831 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:04:03,167 INFO c.s.AppStart [main] Started AppStart in 19.184 seconds (JVM running for 31.41)
+2020-12-22 11:05:30,523 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:05:36,457 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1056 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 11:05:36,475 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:05:36,479 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:05:49,028 INFO c.s.AppStart [main] Started AppStart in 16.981 seconds (JVM running for 26.859)
+2020-12-22 11:07:22,203 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:07:28,097 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1159 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 11:07:28,132 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:07:28,137 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:07:56,691 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:08:03,825 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1243 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 11:08:03,849 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:08:03,855 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:09:24,324 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:09:32,263 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1473 (/home/pi/Desktop/jar/ScreenShareApp_v11.jar started by root in /home/pi/Desktop/control)
+2020-12-22 11:09:32,285 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:09:32,293 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:12:04,170 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:12:11,362 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1534 (/home/pi/Desktop/jar/ScreenShareApp_v14.jar started by root in /home/pi/Desktop/control)
+2020-12-22 11:12:11,399 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:12:11,403 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:13:00,378 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:13:07,542 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1658 (/home/pi/Desktop/jar/ScreenShareApp_v14.jar started by root in /home/pi/Desktop/control)
+2020-12-22 11:13:07,566 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:13:07,571 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:13:36,288 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:13:51,792 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1790 (/home/pi/Desktop/jar/ScreenShareApp_v13.jar started by root in /home/pi/Desktop/control)
+2020-12-22 11:13:51,811 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:13:51,817 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:14:38,403 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:14:47,400 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1915 (/home/pi/Desktop/jar/ScreenShareApp_v12.jar started by root in /home/pi/Desktop/control)
+2020-12-22 11:14:47,420 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:14:47,424 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:18:20,716 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:18:27,577 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1984 (/home/pi/Desktop/jar/ScreenShareApp_v14.jar started by pi in /home/pi/Desktop/control)
+2020-12-22 11:18:27,652 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:18:27,657 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:21:06,040 INFO c.s.AppStart [main] Started AppStart in 483.764 seconds (JVM running for 496.763)
+2020-12-22 11:30:50,802 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:30:59,472 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 962 (/home/pi/Desktop/jar/ScreenShareApp_v14.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 11:30:59,514 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:30:59,521 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:32:09,881 INFO c.s.AppStart [main] triggerBrowser
+2020-12-22 11:32:20,151 INFO c.s.AppStart [main] Starting AppStart v0.0.1-SNAPSHOT using Java 1.8.0_212 on raspberrypi with PID 1073 (/home/pi/Desktop/jar/ScreenShareApp_v14.jar started by pi in /home/pi/Desktop/jar)
+2020-12-22 11:32:20,186 DEBUG c.s.AppStart [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 11:32:20,192 INFO c.s.AppStart [main] No active profile set, falling back to default profiles: default
+2020-12-22 11:32:50,266 INFO c.s.AppStart [main] Started AppStart in 37.538 seconds (JVM running for 50.927)
+2020-12-22 12:08:01,497 INFO c.s.AppStart [main] Started AppStart in 2229.125 seconds (JVM running for 2242.348)

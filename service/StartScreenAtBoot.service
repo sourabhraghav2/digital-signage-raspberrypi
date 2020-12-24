@@ -1,0 +1,14 @@
+[Unit]
+Description=Java Service
+After=network.target
+ 
+[Service]
+Type=Application
+WorkingDirectory=/home/pi
+ExecStart=java -jar /home/pi/Desktop/jar/ScreenShareApp_v14.jar
+Restart=always
+User=pi
+Group=pi
+ 
+[Install]
+WantedBy=multi-user.target

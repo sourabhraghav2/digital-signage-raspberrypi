@@ -1,0 +1,18 @@
+#!/bin/bash
+# MyApp
+#
+# description: ScreenShare
+
+case $1 in
+    start)
+        /bin/bash /home/pi/Desktop/control/screenStart.sh
+    ;;
+    stop)
+        /bin/bash /home/pi/Desktop/control/screenStop.sh
+    ;;
+    restart)
+        /bin/bash /home/pi/Desktop/control/screenStop.sh
+        /bin/bash /home/pi/Desktop/control/screenStart.sh
+    ;;
+esac
+exit 0
