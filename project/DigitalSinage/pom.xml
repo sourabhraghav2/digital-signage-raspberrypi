@@ -9,12 +9,11 @@
 		<version>2.4.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.screenshare</groupId>
-	<artifactId>ScreenShareApp</artifactId>
+	<groupId>com.digitalsinage</groupId>
+	<artifactId>DigitalSinage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ScreenShareApp</name>
+	<name>DigitalSinage</name>
 	<description>Demo project for Spring Boot</description>
-
 
 
 	<dependencies>
@@ -58,19 +57,16 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.json4s/json4s-jackson -->
-		<dependency>
-			<groupId>org.json4s</groupId>
-			<artifactId>json4s-jackson_2.10</artifactId>
-			<version>3.1.0</version>
-		</dependency>
-
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-log4j2</artifactId>
 		</dependency>
+		<!-- <dependency> <groupId>org.mockito</groupId> <artifactId>mockito-all</artifactId> 
+			<version>1.10.18</version> <scope>test</scope> </dependency> -->
 	</dependencies>
+	<properties>
+		<maven.test.skip>true</maven.test.skip>
+	</properties>
 	<build>
 		<plugins>
 			<plugin>
@@ -79,4 +75,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
